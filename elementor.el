@@ -2,7 +2,7 @@
 
 ;; Copyright (c) Google Inc. All Rights Reserved
 ;;
-;; author: Mark T. Tomczak (mtomczak@google.com)
+;; code written by: Mark T. Tomczak (mtomczak@google.com)
 
 ;; Permission is hereby granted, free of charge, to any person obtaining a copy
 ;; of this software and associated documentation files (the "Software"), to deal
